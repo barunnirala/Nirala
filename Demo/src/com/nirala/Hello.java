@@ -4,7 +4,7 @@
 package com.nirala;
 
 /**
- * @author bnirala
+ * @author barun nirala
  *
  */
 public class Hello {
